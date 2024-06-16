@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\bin\Debug\net8.0\DecreasingNumbers.exe
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\bin\Debug\net8.0\DecreasingNumbers.deps.json
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\bin\Debug\net8.0\DecreasingNumbers.runtimeconfig.json
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\bin\Debug\net8.0\DecreasingNumbers.dll
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\bin\Debug\net8.0\DecreasingNumbers.pdb
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.dll
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\refint\DecreasingNumbers.dll
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.pdb
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\DecreasingNumbers.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\DecreasingNumbers\DecreasingNumbers\obj\Debug\net8.0\ref\DecreasingNumbers.dll
